@@ -1,0 +1,9 @@
+.env
+*.pkl
+*.csv
+mage.log
+__pycache__/
+*.log
+*.pyc
+.ipynb_checkpoints/
+landing/
